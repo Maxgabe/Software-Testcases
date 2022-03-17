@@ -29,3 +29,18 @@
  **Expected result** : User shouldn't be able to login and it gets an blocking message "Try again later"
  
  **Test data** : User: Max & Pass: 1231222
+
+-----------------
+
+
+ **Description** : Check if the search works when a person enters 2 words connected without space between them
+
+ **Steps to reproduce** :
+
+1. Go to www.johnnys/login
+2. Add 2 words together 
+3. Press the search button
+
+ **Expected result** :  A page shouldn't display the results for the selected product.
+ 
+ **Test data** : Product searched : ChickenSandwich
