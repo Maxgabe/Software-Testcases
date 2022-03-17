@@ -32,15 +32,28 @@
 
 -----------------
 
-
  **Description** : Check if the search works when a person enters 2 words connected without space between them
 
  **Steps to reproduce** :
 
-1. Go to www.johnnys/login
+1. Go to www.johnnys.com
 2. Add 2 words together 
 3. Press the search button
 
  **Expected result** :  A page shouldn't display the results for the selected product.
  
  **Test data** : Product searched : ChickenSandwich
+
+-----------------
+
+ **Description** : Check what happens if you click/press on the search button with no data in the search box.
+
+ **Steps to reproduce** :
+
+1. Go to www.araara.com
+2. Click/Press on the search button
+
+
+ **Expected result** :  It should show the "You're a shy one, ;)" page
+ 
+ 
