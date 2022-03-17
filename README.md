@@ -56,4 +56,16 @@
 
  **Expected result** :  It should show the "You're a shy one, ;)" page
  
+ -----------------
  
+  **Description** : Check if the "Shopping Cart" button works after selecting one product
+
+ **Steps to reproduce** :
+
+1. Go to www.fashion.com
+2. Add one item to the "Shopping Cart" button
+3. Press/Click on the "Shopping Cart" button
+
+ **Expected result** :  It should show "the Shopping Cart" page
+ 
+  **Test data** : Product selected : Pearl Necklace
