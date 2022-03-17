@@ -15,3 +15,17 @@
  **Expected result** : User shouldn't be able to login and it gets an error message "Username is required"
  
  **Test data** : User: Max & Pass: 229319
+
+-----------------
+
+  **Description** : Check if the login blocks user after entering the wrong credentials 3 times
+
+ **Steps to reproduce** :
+
+1. Go to www.weebsite/login
+2. Add the incorect credentials 3 times
+3. Press Login button for each try
+
+ **Expected result** : User shouldn't be able to login and it gets an blocking message "Try again later"
+ 
+ **Test data** : User: Max & Pass: 1231222
