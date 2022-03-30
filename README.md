@@ -71,7 +71,7 @@
   **Test data** : Product selected : Pearl Necklace
   
    -----------------
-  
+  ***Gherkin test case***
 
 **Title** : as a user I want to search for a product on the website
 
