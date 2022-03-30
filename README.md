@@ -69,3 +69,26 @@
  **Expected result** :  It should show "the Shopping Cart" page
  
   **Test data** : Product selected : Pearl Necklace
+  
+   -----------------
+  
+
+**Title** : as a user I want to search for a product on the website
+
+**Preconditions** :
+
+**User** has to be present of the website 
+
+**Given** that I am present on the home page 
+
+**When** I write the name of the product and click on the search button
+
+**Then** the page would display the searched product
+
+**Expected results** :
+
+**G** : the user is succesfully present on the website
+
+**W** : The user succesfully writes the name of the product
+
+**T** : The page will succesfully diplay the searched product
